@@ -122,8 +122,9 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
-  color: #fff;
+  background: orange;
+  background: orange;
+  color: black;
   text-decoration: none;
 }
 
@@ -183,14 +184,15 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: white;
+  font-size: 20px;
 }
 
 .nav-menu a:hover i,
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: orange;
 }
 
 /* Mobile Navigation */
